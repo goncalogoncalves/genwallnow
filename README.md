@@ -4,7 +4,7 @@ It allows the creation of an image through a set of parameters
 
 ### work in progress...
 
-#### example
+#### Usage example
 
 ```javascript
 $(target).genWallNow({

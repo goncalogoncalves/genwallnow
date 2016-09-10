@@ -25,3 +25,7 @@ $(target).genWallNow({
       randomPosition: true
   });
   ```
+
+#### Output example
+
+![Generate Wallpaper Now](https://github.com/goncalogoncalves/genwallnow/blob/main/imgs/genwallnow.png "Generate Wallpaper Now")

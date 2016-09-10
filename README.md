@@ -4,6 +4,11 @@ It allows the creation of an image through a set of parameters
 
 ### work in progress...
 
+#### Why
+
++ I wanted to create a jquery plugin
++ I like to put random backgrounds into my smartphone
+
 #### Usage example
 
 ```javascript

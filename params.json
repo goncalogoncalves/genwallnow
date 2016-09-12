@@ -1,0 +1,6 @@
+{
+  "name": "Genwallnow",
+  "tagline": "Generate Wallpaper Now jQuery Plugin",
+  "body": "# Generate Wallpaper Now jQuery Plugin\r\n\r\nIt allows the creation of an image through a set of parameters\r\n\r\n### work in progress...\r\n\r\n#### Why\r\n\r\n+ I wanted to create a jquery plugin\r\n+ I like to put random backgrounds into my smartphone\r\n\r\n#### Usage example\r\n\r\n```javascript\r\n$(target).genWallNow({\r\n      width: \"720px\",\r\n      height: \"1280px\",\r\n      backgroundColor: \"#000000\",\r\n      patternStyle: \"style1\",\r\n      arcRadius: 25,\r\n      randomSize: true,\r\n      colorAlphaRandom: true,\r\n      fillStyle: \"#ffffff\",\r\n      strokeStyle: '#ffffff',\r\n      strokes: true,\r\n      lineWidth: 15,\r\n      randomLineWidth: true,\r\n      numberIterations: 1000,\r\n      monochromatic: true,\r\n      randomPosition: true\r\n  });\r\n  ```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
